@@ -1,0 +1,14 @@
+header,main,footer{
+    margin: auto;
+    max-width: 1080px;
+}
+.header-1,nav{
+    display: inline-block;
+}
+img{
+    width: 320px;
+    border-radius: 50%;
+}
+#logo{
+    height: 30px;
+}
