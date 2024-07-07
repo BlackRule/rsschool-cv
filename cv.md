@@ -3,7 +3,7 @@
 **Telegram:** @ivan_chernovalov  
 **E-mail:** rulesprog@gmail.com  
 ### About me:
-I teach adolescents programming remotely through zoom. I teach Frontend,Python, C++ (basically C, basics). This gives me extra free time, which I spend prTelegram: @eparing to land a  full-time Frontend job. Now I am also preparing to enter the master’s program “Banking Information Technologies” - a joint master’s program of IKBFU and Sberbank with the support of MSU university. I like frontend because it deals with UI besides purely programming problems. I like Typescript because you can describe everything in great detail and everything you get to interact with is described in such a way. Since my childhood I've always been around computers and frontend. I created my first website at 8th grade. My goal is to participate in building great products that will bring benefit to users.
+I teach adolescents programming remotely through zoom. I teach Frontend,Python, C++ (basically C, basics). This gives me extra free time, which I spend preparing to land a  full-time Frontend job. Now I am also preparing to enter the master’s program “Banking Information Technologies” - a joint master’s program of IKBFU and Sberbank with the support of MSU university. I like frontend because it deals with UI besides purely programming problems. I like Typescript because you can describe everything in great detail and everything you get to interact with is described in such a way. Since my childhood I've always been around computers and frontend. I created my first website at 8th grade. My goal is to participate in building great products that will bring benefit to users.
 
 ### Skills 
 * React
